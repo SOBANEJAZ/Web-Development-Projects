@@ -1,0 +1,32 @@
+*{
+  margin: 0
+  padding: 0
+}
+ul{
+margin-left: 60px;
+}
+ul li{
+    list-style: none;
+    display:inline-block;
+    float: left;
+    line-height: 100px;
+}
+ul li a{
+  text-decoration: none;
+  font-size: 14px;
+  font-family: arial;
+  padding: 0 20px;
+  display: block;
+}
+body{
+  background-color: #CDFFC4;
+}
+
+nav{
+  height: 100px;
+  weidth: 100%;
+  background-color: #FAE8DA;
+}
+ul li a:hover{
+  color:red;
+}
