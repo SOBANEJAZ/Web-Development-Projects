@@ -1,2 +1,0 @@
-The folders are in order so the file is just being apended in the next folder.
-These courses are taken by the youtube channel freecodecamp.
